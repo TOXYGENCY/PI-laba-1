@@ -8,6 +8,6 @@ namespace PI_laba_1
 {
     public class Manager : EmployeeWithBonus
     {
-        public string[] ClientList { get; set; }
+        public string[]? ClientList { get; set; }
     }
 }

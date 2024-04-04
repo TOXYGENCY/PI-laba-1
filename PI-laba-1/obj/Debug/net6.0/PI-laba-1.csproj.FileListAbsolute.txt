@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.exe
 C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.deps.json
 C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.runtimeconfig.json
@@ -14,5 +13,3 @@ C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\refint\PI-lab
 C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.pdb
 C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.genruntimeconfig.cache
 C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\ref\PI-laba-1.dll
-=======
->>>>>>> 59b589242016545f8d5ba83255e106f8a68ca99e

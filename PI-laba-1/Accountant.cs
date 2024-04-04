@@ -8,6 +8,6 @@ namespace PI_laba_1
 {
     public class Accountant : EmployeeWithBonus
     {
-        public string DutyDescription { get; set; }
+        public string? DutyDescription { get; set; }
     }
 }

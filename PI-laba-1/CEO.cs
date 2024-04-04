@@ -8,6 +8,6 @@ namespace PI_laba_1
 {
     public class CEO : EmployeeWithBonus
     {
-        public string CompanyCar { get; set; } // Пусть служебный авто будет строкой, тк не сказано иначе
+        public string? CompanyCar { get; set; } // Пусть служебный авто будет строкой, тк не сказано иначе
     }
 }
