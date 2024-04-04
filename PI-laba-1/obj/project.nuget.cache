@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\KLancer\\source\\repos\\PI-laba-1\\PI-laba-1\\PI-laba-1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\KLancer\\source\\repos\\PI-laba-1\\PI-laba-1\\obj\\project.nuget.cache: Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+    }
+  ]
 }
