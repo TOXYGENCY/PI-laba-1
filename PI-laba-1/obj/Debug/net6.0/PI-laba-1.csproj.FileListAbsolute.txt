@@ -1,0 +1,15 @@
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.exe
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.deps.json
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.runtimeconfig.json
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.dll
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\bin\Debug\net6.0\PI-laba-1.pdb
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.csproj.AssemblyReference.cache
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.AssemblyInfoInputs.cache
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.AssemblyInfo.cs
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.csproj.CoreCompileInputs.cache
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.dll
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\refint\PI-laba-1.dll
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.pdb
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\PI-laba-1.genruntimeconfig.cache
+C:\Users\KLancer\source\repos\PI-laba-1\PI-laba-1\obj\Debug\net6.0\ref\PI-laba-1.dll
