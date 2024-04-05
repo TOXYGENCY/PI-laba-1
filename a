@@ -1,425 +1,0 @@
-[1mdiff --git a/.vs/PI-laba-1/DesignTimeBuild/.dtbcache.v2 b/.vs/PI-laba-1/DesignTimeBuild/.dtbcache.v2[m
-[1mdeleted file mode 100644[m
-[1mindex 9c23b14..0000000[m
-Binary files a/.vs/PI-laba-1/DesignTimeBuild/.dtbcache.v2 and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/FileContentIndex/4b95925f-b39e-442f-b081-0d07c00d3572.vsidx b/.vs/PI-laba-1/FileContentIndex/4b95925f-b39e-442f-b081-0d07c00d3572.vsidx[m
-[1mdeleted file mode 100644[m
-[1mindex dfe7b96..0000000[m
-Binary files a/.vs/PI-laba-1/FileContentIndex/4b95925f-b39e-442f-b081-0d07c00d3572.vsidx and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/FileContentIndex/6bfdbc4a-71dc-4d21-b375-7e28f7df8fd9.vsidx b/.vs/PI-laba-1/FileContentIndex/6bfdbc4a-71dc-4d21-b375-7e28f7df8fd9.vsidx[m
-[1mdeleted file mode 100644[m
-[1mindex 62150b4..0000000[m
-Binary files a/.vs/PI-laba-1/FileContentIndex/6bfdbc4a-71dc-4d21-b375-7e28f7df8fd9.vsidx and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/FileContentIndex/9484574c-d437-47fe-97d8-2d4128d8ac26.vsidx b/.vs/PI-laba-1/FileContentIndex/9484574c-d437-47fe-97d8-2d4128d8ac26.vsidx[m
-[1mdeleted file mode 100644[m
-[1mindex 585b07c..0000000[m
-Binary files a/.vs/PI-laba-1/FileContentIndex/9484574c-d437-47fe-97d8-2d4128d8ac26.vsidx and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/FileContentIndex/c8e17a69-9b1b-41a2-9b8e-68dc7a28670f.vsidx b/.vs/PI-laba-1/FileContentIndex/c8e17a69-9b1b-41a2-9b8e-68dc7a28670f.vsidx[m
-[1mdeleted file mode 100644[m
-[1mindex 7739e4f..0000000[m
-Binary files a/.vs/PI-laba-1/FileContentIndex/c8e17a69-9b1b-41a2-9b8e-68dc7a28670f.vsidx and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/FileContentIndex/read.lock b/.vs/PI-laba-1/FileContentIndex/read.lock[m
-[1mdeleted file mode 100644[m
-[1mindex e69de29..0000000[m
-[1mdiff --git a/.vs/PI-laba-1/v17/.futdcache.v2 b/.vs/PI-laba-1/v17/.futdcache.v2[m
-[1mdeleted file mode 100644[m
-[1mindex 0d8915b..0000000[m
-Binary files a/.vs/PI-laba-1/v17/.futdcache.v2 and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/v17/.suo b/.vs/PI-laba-1/v17/.suo[m
-[1mdeleted file mode 100644[m
-[1mindex 3452ec4..0000000[m
-Binary files a/.vs/PI-laba-1/v17/.suo and /dev/null differ
-[1mdiff --git a/.vs/PI-laba-1/v17/.wsuo b/.vs/PI-laba-1/v17/.wsuo[m
-[1mdeleted file mode 100644[m
-[1mindex e1aaffc..0000000[m
-Binary files a/.vs/PI-laba-1/v17/.wsuo and /dev/null differ
-[1mdiff --git a/.vs/ProjectEvaluation/pi-laba-1.metadata.v7.bin b/.vs/ProjectEvaluation/pi-laba-1.metadata.v7.bin[m
-[1mdeleted file mode 100644[m
-[1mindex 97aab36..0000000[m
-Binary files a/.vs/ProjectEvaluation/pi-laba-1.metadata.v7.bin and /dev/null differ
-[1mdiff --git a/.vs/ProjectEvaluation/pi-laba-1.projects.v7.bin b/.vs/ProjectEvaluation/pi-laba-1.projects.v7.bin[m
-[1mdeleted file mode 100644[m
-[1mindex 82e34d0..0000000[m
-Binary files a/.vs/ProjectEvaluation/pi-laba-1.projects.v7.bin and /dev/null differ
-[1mdiff --git a/.vs/VSWorkspaceState.json b/.vs/VSWorkspaceState.json[m
-[1mdeleted file mode 100644[m
-[1mindex 55660dc..0000000[m
-[1m--- a/.vs/VSWorkspaceState.json[m
-[1m+++ /dev/null[m
-[36m@@ -1,7 +0,0 @@[m
-[31m-{[m
-[31m-  "ExpandedNodes": [[m
-[31m-    ""[m
-[31m-  ],[m
-[31m-  "SelectedNode": "\\C:\\Users\\KLancer\\Source\\Repos\\PI-laba-1",[m
-[31m-  "PreviewInSolutionExplorer": false[m
-[31m-}[m
-\ No newline at end of file[m
-[1mdiff --git a/PI-laba-1.sln b/PI-laba-1.sln[m
-[1mindex fb3ffe2..2b4586d 100644[m
-[1m--- a/PI-laba-1.sln[m
-[1m+++ b/PI-laba-1.sln[m
-[36m@@ -1,25 +1,25 @@[m
-[31m-﻿[m
-[31m-Microsoft Visual Studio Solution File, Format Version 12.00[m
-[31m-# Visual Studio Version 17[m
-[31m-VisualStudioVersion = 17.6.33829.357[m
-[31m-MinimumVisualStudioVersion = 10.0.40219.1[m
-[31m-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI-laba-1", "PI-laba-1\PI-laba-1.csproj", "{D124C33B-4631-443C-9334-29A06C8896E7}"[m
-[31m-EndProject[m
-[31m-Global[m
-[31m-	GlobalSection(SolutionConfigurationPlatforms) = preSolution[m
-[31m-		Debug|Any CPU = Debug|Any CPU[m
-[31m-		Release|Any CPU = Release|Any CPU[m
-[31m-	EndGlobalSection[m
-[31m-	GlobalSection(ProjectConfigurationPlatforms) = postSolution[m
-[31m-		{D124C33B-4631-443C-9334-29A06C8896E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU[m
-[31m-		{D124C33B-4631-443C-9334-29A06C8896E7}.Debug|Any CPU.Build.0 = Debug|Any CPU[m
-[31m-		{D124C33B-4631-443C-9334-29A06C8896E7}.Release|Any CPU.ActiveCfg = Release|Any CPU[m
-[31m-		{D124C33B-4631-443C-9334-29A06C8896E7}.Release|Any CPU.Build.0 = Release|Any CPU[m
-[31m-	EndGlobalSection[m
-[31m-	GlobalSection(SolutionProperties) = preSolution[m
-[31m-		HideSolutionNode = FALSE[m
-[31m-	EndGlobalSection[m
-[31m-	GlobalSection(ExtensibilityGlobals) = postSolution[m
-[31m-		SolutionGuid = {64617C22-F690-4219-AA72-63CFC8BBC2EF}[m
-[31m-	EndGlobalSection[m
-[31m-EndGlobal[m
-[32m+[m[32m﻿[m[41m[m
-[32m+[m[32mMicrosoft Visual Studio Solution File, Format Version 12.00[m[41m[m
-[32m+[m[32m# Visual Studio Version 17[m[41m[m
-[32m+[m[32mVisualStudioVersion = 17.6.33829.357[m[41m[m
-[32m+[m[32mMinimumVisualStudioVersion = 10.0.40219.1[m[41m[m
-[32m+[m[32mProject("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI-laba-1", "PI-laba-1\PI-laba-1.csproj", "{D124C33B-4631-443C-9334-29A06C8896E7}"[m[41m[m
-[32m+[m[32mEndProject[m[41m[m
-[32m+[m[32mGlobal[m[41m[m
-[32m+[m	[32mGlobalSection(SolutionConfigurationPlatforms) = preSolution[m[41m[m
-[32m+[m		[32mDebug|Any CPU = Debug|Any CPU[m[41m[m
-[32m+[m		[32mRelease|Any CPU = Release|Any CPU[m[41m[m
-[32m+[m	[32mEndGlobalSection[m[41m[m
-[32m+[m	[32mGlobalSection(ProjectConfigurationPlatforms) = postSolution[m[41m[m
-[32m+[m		[32m{D124C33B-4631-443C-9334-29A06C8896E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU[m[41m[m
-[32m+[m		[32m{D124C33B-4631-443C-9334-29A06C8896E7}.Debug|Any CPU.Build.0 = Debug|Any CPU[m[41m[m
-[32m+[m		[32m{D124C33B-4631-443C-9334-29A06C8896E7}.Release|Any CPU.ActiveCfg = Release|Any CPU[m[41m[m
-[32m+[m		[32m{D124C33B-4631-443C-9334-29A06C8896E7}.Release|Any CPU.Build.0 = Release|Any CPU[m[41m[m
-[32m+[m	[32mEndGlobalSection[m[41m[m
-[32m+[m	[32mGlobalSection(SolutionProperties) = preSolution[m[41m[m
-[32m+[m		[32mHideSolutionNode = FALSE[m[41m[m
-[32m+[m	[32mEndGlobalSection[m[41m[m
-[32m+[m	[32mGlobalSection(ExtensibilityGlobals) = postSolution[m[41m[m
-[32m+[m		[32mSolutionGuid = {64617C22-F690-4219-AA72-63CFC8BBC2EF}[m[41m[m
-[32m+[m	[32mEndGlobalSection[m[41m[m
-[32m+[m[32mEndGlobal[m[41m[m
-[1mdiff --git a/PI-laba-1/Accountant.cs b/PI-laba-1/Accountant.cs[m
-[1mindex 0514da8..68423a7 100644[m
-[1m--- a/PI-laba-1/Accountant.cs[m
-[1m+++ b/PI-laba-1/Accountant.cs[m
-[36m@@ -1,13 +1,13 @@[m
-[31m-﻿using System;[m
-[31m-using System.Collections.Generic;[m
-[31m-using System.Linq;[m
-[31m-using System.Text;[m
-[31m-using System.Threading.Tasks;[m
-[31m-[m
-[31m-namespace PI_laba_1[m
-[31m-{[m
-[31m-    public class Accountant : EmployeeWithBonus[m
-[31m-    {[m
-[31m-        public string DutyDescription { get; set; }[m
-[31m-    }[m
-[31m-}[m
-[32m+[m[32m﻿using System;[m[41m[m
-[32m+[m[32musing System.Collections.Generic;[m[41m[m
-[32m+[m[32musing System.Linq;[m[41m[m
-[32m+[m[32musing System.Text;[m[41m[m
-[32m+[m[32musing System.Threading.Tasks;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mnamespace PI_laba_1[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    public class Accountant : EmployeeWithBonus[m[41m[m
-[32m+[m[32m    {[m[41m[m
-[32m+[m[32m        public string DutyDescription { get; set; }[m[41m[m
-[32m+[m[32m    }[m[41m[m
-[32m+[m[32m}[m[41m[m
-[1mdiff --git a/PI-laba-1/CEO.cs b/PI-laba-1/CEO.cs[m
-[1mindex 99fc888..ade6c37 100644[m
-[1m--- a/PI-laba-1/CEO.cs[m
-[1m+++ b/PI-laba-1/CEO.cs[m
-[36m@@ -1,13 +1,13 @@[m
-[31m-﻿using System;[m
-[31m-using System.Collections.Generic;[m
-[31m-using System.Linq;[m
-[31m-using System.Text;[m
-[31m-using System.Threading.Tasks;[m
-[31m-[m
-[31m-namespace PI_laba_1[m
-[31m-{[m
-[31m-    public class CEO : EmployeeWithBonus[m
-[31m-    {[m
-[31m-        public string CompanyCar { get; set; } // Пусть служебный авто будет строкой, тк не сказано иначе[m
-[31m-    }[m
-[31m-}[m
-[32m+[m[32m﻿using System;[m[41m[m
-[32m+[m[32musing System.Collections.Generic;[m[41m[m
-[32m+[m[32musing System.Linq;[m[41m[m
-[32m+[m[32musing System.Text;[m[41m[m
-[32m+[m[32musing System.Threading.Tasks;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mnamespace PI_laba_1[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    public class CEO : EmployeeWithBonus[m[41m[m
-[32m+[m[32m    {[m[41m[m
-[32m+[m[32m        public string CompanyCar { get; set; } // Пусть служебный авто будет строкой, тк не сказано иначе[m[41m[m
-[32m+[m[32m    }[m[41m[m
-[32m+[m[32m}[m[41m[m
-[1mdiff --git a/PI-laba-1/Employee.cs b/PI-laba-1/Employee.cs[m
-[1mindex 0c1a1e3..3a741ae 100644[m
-[1m--- a/PI-laba-1/Employee.cs[m
-[1m+++ b/PI-laba-1/Employee.cs[m
-[36m@@ -1,18 +1,18 @@[m
-[31m-﻿using System;[m
-[31m-using System.Collections.Generic;[m
-[31m-using System.Linq;[m
-[31m-using System.Security.Principal;[m
-[31m-using System.Text;[m
-[31m-using System.Threading.Tasks;[m
-[31m-[m
-[31m-namespace PI_laba_1[m
-[31m-{[m
-[31m-    public class Employee[m
-[31m-    {[m
-[31m-        //ФИО:[m
-[31m-        public string Name { get; set; }[m
-[31m-[m
-[31m-        //Номер офиса или пост:[m
-[31m-        public string Workplace { get; set; } //строка, чтобы была возможность записывать в разной форме: 001, 92-КА и тд[m
-[31m-    }[m
-[31m-}[m
-[32m+[m[32m﻿using System;[m[41m[m
-[32m+[m[32musing System.Collections.Generic;[m[41m[m
-[32m+[m[32musing System.Linq;[m[41m[m
-[32m+[m[32musing System.Security.Principal;[m[41m[m
-[32m+[m[32musing System.Text;[m[41m[m
-[32m+[m[32musing System.Threading.Tasks;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mnamespace PI_laba_1[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    public class Employee[m[41m[m
-[32m+[m[32m    {[m[41m[m
-[32m+[m[32m        //ФИО:[m[41m[m
-[32m+[m[32m        public string Name { get; set; }[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32m        //Номер офиса или пост:[m[41m[m
-[32m+[m[32m        public string Workplace { get; set; } //строка, чтобы была возможность записывать в разной форме: 001, 92-КА и тд[m[41m[m
-[32m+[m[32m    }[m[41m[m
-[32m+[m[32m}[m[41m[m
-[1mdiff --git a/PI-laba-1/EmployeeWithBonus.cs b/PI-laba-1/EmployeeWithBonus.cs[m
-[1mindex f4d0152..871c422 100644[m
-[1m--- a/PI-laba-1/EmployeeWithBonus.cs[m
-[1m+++ b/PI-laba-1/EmployeeWithBonus.cs[m
-[36m@@ -1,13 +1,13 @@[m
-[31m-﻿using System;[m
-[31m-using System.Collections.Generic;[m
-[31m-using System.Linq;[m
-[31m-using System.Text;[m
-[31m-using System.Threading.Tasks;[m
-[31m-[m
-[31m-namespace PI_laba_1[m
-[31m-{[m
-[31m-    public class EmployeeWithBonus : Employee // Класс работников с бонусом[m
-[31m-    {[m
-[31m-        public float Bonus { get; set; } // Размер бонуса[m
-[31m-    }[m
-[31m-}[m
-[32m+[m[32m﻿using System;[m[41m[m
-[32m+[m[32musing System.Collections.Generic;[m[41m[m
-[32m+[m[32musing System.Linq;[m[41m[m
-[32m+[m[32musing System.Text;[m[41m[m
-[32m+[m[32musing System.Threading.Tasks;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mnamespace PI_laba_1[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    public class EmployeeWithBonus : Employee // Класс работников с бонусом[m[41m[m
-[32m+[m[32m    {[m[41m[m
-[32m+[m[32m        public float Bonus { get; set; } // Размер бонуса[m[41m[m
-[32m+[m[32m    }[m[41m[m
-[32m+[m[32m}[m[41m[m
-[1mdiff --git a/PI-laba-1/EmployeeWithPhone.cs b/PI-laba-1/EmployeeWithPhone.cs[m
-[1mindex 6b24855..38bf7e0 100644[m
-[1m--- a/PI-laba-1/EmployeeWithPhone.cs[m
-[1m+++ b/PI-laba-1/EmployeeWithPhone.cs[m
-[36m@@ -1,13 +1,13 @@[m
-[31m-﻿using System;[m
-[31m-using System.Collections.Generic;[m
-[31m-using System.Linq;[m
-[31m-using System.Text;[m
-[31m-using System.Threading.Tasks;[m
-[31m-[m
-[31m-namespace PI_laba_1[m
-[31m-{[m
-[31m-    public class EmployeeWithPhone : Employee // Класс работников с номером телефона[m
-[31m-    {[m
-[31m-        public string PhoneNumber { get; set; } // Телефон - строка, тк длинный и может записываться по-разному +с ним никакой математики не должно происходить[m
-[31m-    }[m
-[31m-}[m
-[32m+[m[32m﻿using System;[m[41m[m
-[32m+[m[32musing System.Collections.Generic;[m[41m[m
-[32m+[m[32musing System.Linq;[m[41m[m
-[32m+[m[32musing System.Text;[m[41m[m
-[32m+[m[32musing System.Threading.Tasks;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mnamespace PI_laba_1[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    public class EmployeeWithPhone : Employee // Класс работников с номером телефона[m[41m[m
-[32m+[m[32m    {[m[41m[m
-[32m+[m[32m        public string PhoneNumber { get; set; } // Телефон - строка, тк длинный и может записываться по-разному +с ним никакой математики не должно происходить[m[41m[m
-[32m+[m[32m    }[m[41m[m
-[32m+[m[32m}[m[41m[m
-[1mdiff --git a/PI-laba-1/Manager.cs b/PI-laba-1/Manager.cs[m
-[1mindex 8d20470..f3c78aa 100644[m
-[1m--- a/PI-laba-1/Manager.cs[m
-[1m+++ b/PI-laba-1/Manager.cs[m
-[36m@@ -1,13 +1,13 @@[m
-[31m-﻿using System;[m
-[31m-using System.Collections.Generic;[m
-[31m-using System.Linq;[m
-[31m-using System.Text;[m
-[31m-using System.Threading.Tasks;[m
-[31m-[m
-[31m-namespace PI_laba_1[m
-[31m-{[m
-[31m-    public class Manager : EmployeeWithBonus[m
-[31m-    {[m
-[31m-        public string[] ClientList { get; set; }[m
-[31m-    }[m
-[31m-}[m
-[32m+[m[32m﻿using System;[m[41m[m
-[32m+[m[32musing System.Collections.Generic;[m[41m[m
-[32m+[m[32musing System.Linq;[m[41m[m
-[32m+[m[32musing System.Text;[m[41m[m
-[32m+[m[32musing System.Threading.Tasks;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mnamespace PI_laba_1[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    public class Manager : EmployeeWithBonus[m[41m[m
-[32m+[m[32m    {[m[41m[m
-[32m+[m[32m        public string[] ClientList { get; set; }[m[41m[m
-[32m+[m[32m    }[m[41m[m
-[32m+[m[32m}[m[41m[m
-[1mdiff --git a/PI-laba-1/PI-laba-1.csproj b/PI-laba-1/PI-laba-1.csproj[m
-[1mindex e122ea7..448109d 100644[m
-[1m--- a/PI-laba-1/PI-laba-1.csproj[m
-[1m+++ b/PI-laba-1/PI-laba-1.csproj[m
-[36m@@ -1,14 +1,14 @@[m
-[31m-<Project Sdk="Microsoft.NET.Sdk">[m
-[31m-[m
-[31m-  <PropertyGroup>[m
-[31m-    <OutputType>Exe</OutputType>[m
-[31m-    <TargetFramework>net6.0</TargetFramework>[m
-[31m-    <RootNamespace>PI_laba_1</RootNamespace>[m
-[31m-    <ImplicitUsings>enable</ImplicitUsings>[m
-[31m-    <Nullable>enable</Nullable>[m
-[31m-  </PropertyGroup>[m
-[31m-[m
-[31m-  <ItemGroup>[m
-[31m-  </ItemGroup>[m
-[31m-[m
-[31m-</Project>[m
-[32m+[m[32m<Project Sdk="Microsoft.NET.Sdk">[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32m  <PropertyGroup>[m[41m[m
-[32m+[m[32m    <OutputType>Exe</OutputType>[m[41m[m
-[32m+[m[32m    <TargetFramework>net6.0</TargetFramework>[m[41m[m
-[32m+[m[32m    <RootNamespace>PI_laba_1</RootNamespace>[m[41m[m
-[32m+[m[32m    <ImplicitUsings>enable</ImplicitUsings>[m[41m[m
-[32m+[m[32m    <Nullable>enable</Nullable>[m[41m[m
-[32m+[m[32m  </PropertyGroup>[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32m  <ItemGroup>[m[41m[m
-[32m+[m[32m  </ItemGroup>[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32m</Project>[m[41m[m
-[1mdiff --git a/PI-laba-1/Program.cs b/PI-laba-1/Program.cs[m
-[1mindex 002a96c..aa23143 100644[m
-[1m--- a/PI-laba-1/Program.cs[m
-[1m+++ b/PI-laba-1/Program.cs[m
-[36m@@ -1,43 +1,47 @@[m
-[31m-﻿using PI_laba_1;[m
-[31m-[m
-[31m-[m
-[31m-// Образцы использования всех классов, что я тут напрограммировал:[m
-[31m-[m
-[31m-var Manager = new Manager[m
-[31m-{[m
-[31m-    Name = "Всем Менеджерам Менеджер",[m
-[31m-    Workplace = "102",[m
-[31m-    Bonus = 32500,[m
-[31m-    ClientList = new string[] { "И.И. Сверхразум", "И.Я. Тоже", "А.Я. Кто" }[m
-[31m-};[m
-[31m-[m
-[31m-var SysAdmin = new EmployeeWithPhone[m
-[31m-{[m
-[31m-    Name = "Эй УМеняСломалось Админович",[m
-[31m-    PhoneNumber = "+8(800)5553535",[m
-[31m-    Workplace = "1337"[m
-[31m-};[m
-[31m-[m
-[31m-var CEO = new CEO[m
-[31m-{[m
-[31m-    Name = "Начальник ПоНеважным Делам",[m
-[31m-    Bonus = 99999999,[m
-[31m-    Workplace = "A001",[m
-[31m-    CompanyCar = "Лада Cullinan(Калина) PRO MAX Competition"[m
-[31m-};[m
-[31m-[m
-[31m-var SecurityGuard = new SecurityGuard[m
-[31m-{[m
-[31m-    Name = "Майк Шмидт Фреддифазбирович",[m
-[31m-    Workplace = "CAM-01",[m
-[31m-    FinancialResponsibility = 120.50f,[m
-[31m-    PhoneNumber = "+1(234)555-67-89"[m
-[31m-};[m
-[31m-[m
-[31m-var Accountant = new Accountant[m
-[31m-{[m
-[31m-    Name = "Денюжко Пересчет Рублёвич",[m
-[31m-    Workplace = "Печатный станок (денежный)",[m
-[31m-    Bonus = 2147483647,[m
-[31m-    DutyDescription = "Изначально производил учет финансов фирмы, однако в следствие решений, принятых на совещании прошлого года, назначен печатать купюры рублёвой валюты за соответсвтующий станок из-за недалёких соображений нашего Директора с отсутсвием какого-либо понимания принципа работы как инфляции, так и функционирования экономики в целом."[m
-[31m-};[m
-\ No newline at end of file[m
-[32m+[m[32m﻿using PI_laba_1;[m[41m[m
-[32m+[m[32musing System.Reflection.Metadata.Ecma335;[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mvar Manager = new Manager[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    Name = "Менеджер Всех Менеджеров",[m[41m[m
-[32m+[m[32m    Workplace = "102",[m[41m[m
-[32m+[m[32m    Bonus = 32500[m[41m[m
-[32m+[m[32m};[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mvar SysAdmin = new EmployeeWithPhone[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    Name = "Эй УМеняСломалось Админович",[m[41m[m
-[32m+[m[32m    PhoneNumber = "+8(800)5553535",[m[41m[m
-[32m+[m[32m    Workplace = "1337"[m[41m[m
-[32m+[m[32m};[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mvar CEO = new CEO[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    Name = "Начальник ПоНеважным Делам",[m[41m[m
-[32m+[m[32m    Workplace = "A001",[m[41m[m
-[32m+[m[32m    CompanyCar = "Лада Cullinan(Калина) PRO MAX Competition"[m[41m[m
-[32m+[m[32m};[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mvar SecurityGuard = new SecurityGuard[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+[m[32m    Name = "Майк Шмидт Константинович",[m[41m[m
-[32m+[m[32m    Workplace = "CAM-01",[m[41m[m
-[32m+[m[32m    FinancialResponsibility = 120.50f,[m[41m[m
-[32m+[m[32m    PhoneNumber = "+1(234)555-67-89"[m[41m[m
-[32m+[m[32m};[m[41m[m
-[32m+[m[41m[m
-[32m+[m[32mvar Accountant = new Accountant[m[41m[m
-[32m+[m[32m{[m[41m[m
-[32m+
